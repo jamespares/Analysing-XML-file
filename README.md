@@ -10,5 +10,3 @@ This code constitutes a simple program which pulls key information from the XML 
 - Structured list of all movies in the file
 - Stats on which are the highest rated movies in the list
 
-Thank you and enjoy!
-James
